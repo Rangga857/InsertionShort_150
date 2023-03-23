@@ -84,6 +84,7 @@ int main()
 {
 	input();
 	insertionsort();
+	display();
 }	
 	
 
